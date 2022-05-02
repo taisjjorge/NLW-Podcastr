@@ -12,3 +12,11 @@ Trabalhando conceitos do React JS
  ## Screenshot
  <img width="70%" src="/public/screen.png">
  
+#### Instale as dependencias
+$ npm install
+
+# Rode o servidor local
+$ npm run server
+
+#### Rode o projeto
+$ npm run dev
