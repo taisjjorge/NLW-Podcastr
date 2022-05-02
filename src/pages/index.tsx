@@ -13,6 +13,7 @@ import { usePlayer } from '../contexts/PlayerContext'
 
 import styles from './home.module.scss'
 
+
 type Episode = {
   id: string;
   title: string;
