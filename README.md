@@ -15,8 +15,5 @@ Trabalhando conceitos do React JS
 #### Instale as dependencias
 $ npm install
 
-# Rode o servidor local
-$ npm run server
-
 #### Rode o projeto
 $ npm run dev
