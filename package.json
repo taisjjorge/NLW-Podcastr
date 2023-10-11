@@ -9,19 +9,21 @@
     "server": "json-server server.json -w -d 750 -p 3333"
   },
   "dependencies": {
-    "@artsy/fresnel": "^1.5.0",
     "axios": "^0.21.1",
     "date-fns": "^2.21.1",
-    "next": "10.1.3",
+    "next": "^12.3.4",
     "rc-slider": "^9.7.2",
-    "react": "17.0.2",
-    "react-dom": "17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
     "sass": "^1.32.11"
   },
   "devDependencies": {
+    "@babel/helper-compilation-targets": "^7.22.1",
     "@types/node": "^14.14.41",
     "@types/react": "^17.0.3",
     "json-server": "^0.16.3",
+    "postcss": "^8.4.24",
     "typescript": "^4.2.4"
   }
 }
